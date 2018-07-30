@@ -18,10 +18,10 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
 ## 说明
 写到一半的时候音乐路径就403了所以就草草收场
 
 ## 项目截图
-
+![](https://ws3.sinaimg.cn/large/006tKfTcgy1fts5c9r9fxj30bi0kgtgo.jpg)
+![](https://ws4.sinaimg.cn/large/006tKfTcgy1fts5cfuv3xj30bj0kdtcu.jpg)
+![](https://ws4.sinaimg.cn/large/006tKfTcgy1fts5cqv45hj30bj0keju7.jpg)
