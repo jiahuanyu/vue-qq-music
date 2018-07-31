@@ -19,7 +19,4 @@ npm run build --report
 ```
 
 ## 项目截图
-![](https://ws3.sinaimg.cn/large/006tKfTcgy1fts5c9r9fxj30bi0kgtgo.jpg)
-![](https://ws4.sinaimg.cn/large/006tKfTcgy1fts5cfuv3xj30bj0kdtcu.jpg)
-![](https://ws4.sinaimg.cn/large/006tKfTcgy1fts5cqv45hj30bj0keju7.jpg)
-![](https://ws2.sinaimg.cn/large/801b780aly1ftsryrbh5nj20ig0wm7fj.jpg)
+![](https://ws4.sinaimg.cn/large/801b780aly1ftss5z1gtnj20ul0dmn99.jpg)
