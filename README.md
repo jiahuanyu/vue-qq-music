@@ -19,4 +19,4 @@ npm run build --report
 ```
 
 ## 项目截图
-![](https://ws4.sinaimg.cn/large/801b780aly1ftss5z1gtnj20ul0dmn99.jpg)
+![](./project/vue-music.png)
