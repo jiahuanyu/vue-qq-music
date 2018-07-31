@@ -3,15 +3,21 @@
     <keep-alive>
       <router-view></router-view>
     </keep-alive>
-    <!-- <player></player> -->
+    <player v-show="playerShow"></player>
   </div>
 </template>
 
 <script>
 import Player from 'components/player/player'
+import {mapGetters} from 'vuex'
 export default {
   components: {
     Player
+  },
+  computed: {
+    ...mapGetters([
+      'playerShow'
+    ])
   }
 }
 </script>

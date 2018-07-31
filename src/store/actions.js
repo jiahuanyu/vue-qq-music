@@ -4,4 +4,6 @@ export const setPlayer = function ({commit, state}, {songName, songSrc, songImg,
   commit(types.SET_PLAYER_SHOW, true)
   commit(types.SET_PLATER_SONG_NAME, songName)
   commit(types.SET_PLAYER_SONG_SRC, songSrc)
+  commit(types.SET_PLAYER_SONG_IMG, songImg)
+  commit(types.SET_PLAYER_SINGER_NAME, singerName)
 }

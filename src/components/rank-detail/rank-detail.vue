@@ -95,8 +95,10 @@ export default {
     },
     _play (song) {
       this.setPlayer({
-        songName: 'test',
-        songSrc: `http://dl.stream.qqmusic.qq.com/C400${song.data.songmid}.m4a?guid=1849010381&vkey=1E56F7851D0A370F4224B1B2B9CCB356BCD6E815995B6915267DE0AE3F2D56300F86C9D922FE8C5F775407DF946D84D2512E4926B44BE78E&uin=0&fromtag=38`
+        songName: song.data.songname,
+        songSrc: `http://dl.stream.qqmusic.qq.com/C400${song.data.songmid}.m4a?guid=1849010381&vkey=0FA412E9C79195C46BD789B55A386CE1841B26F62DA3DDCA15773FD35188848655E1EFF8FA27C3D36F94447339A8A033B6E5BB55EA6AD4F2&uin=0&fromtag=38`,
+        songImg: `https://y.gtimg.cn/music/photo_new/T002R300x300M000${song.data.albummid}.jpg`,
+        singerName: song.data.singer[0].name
       })
     },
     ...mapActions([

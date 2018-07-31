@@ -18,9 +18,6 @@ npm run build
 npm run build --report
 ```
 
-## 说明
-Vue学习项目，写到一半的时候音乐路径就403了，所以就草草收场。
-
 ## 项目截图
 ![](https://ws3.sinaimg.cn/large/006tKfTcgy1fts5c9r9fxj30bi0kgtgo.jpg)
 ![](https://ws4.sinaimg.cn/large/006tKfTcgy1fts5cfuv3xj30bj0kdtcu.jpg)
